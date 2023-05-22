@@ -1,0 +1,12 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\bin\Debug\Recursividad1.exe.config
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\bin\Debug\Recursividad1.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\bin\Debug\Recursividad1.pdb
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\obj\Debug\Recursividad1.csprojResolveAssemblyReference.cache
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\obj\Debug\Recursividad1.exe
+c:\users\hp 2018\documents\visual studio 2012\Projects\Recursividad1\Recursividad1\obj\Debug\Recursividad1.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\bin\Debug\Recursividad1.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\obj\Debug\Recursividad1.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\obj\Debug\Recursividad1.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\bin\Debug\Recursividad1.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\bin\Debug\Recursividad1.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\Recursividad1\Recursividad1\obj\Debug\Recursividad1.csprojResolveAssemblyReference.cache
